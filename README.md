@@ -8,10 +8,11 @@
 ## Current Repositories
 Number | Repository
 ------------ | -------------
-1 | [Morning Scoop: Sports, News, and Fantasy](https://github.com/iainmuir6/MorningScoop-Sports-News-Fantasy)
-2 | [Financial Data Analysis Dashboard](https://github.com/iainmuir6/Financial-Data-Analysis-Dashboard)
-3 | [Fantasy Football Dashboard](https://github.com/iainmuir6/Fantasy-Football-Dashboard)
-4 | [HackerRank Solutions](https://github.com/iainmuir6/HackerRank-Solutions)
+1 | [Machine Learning with Coronavirus Data](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data)
+2 | [Morning Scoop: Sports, News, and Fantasy](https://github.com/iainmuir6/MorningScoop-Sports-News-Fantasy)
+3 | [Financial Data Analysis Dashboard](https://github.com/iainmuir6/Financial-Data-Analysis-Dashboard)
+4 | [Fantasy Football Dashboard](https://github.com/iainmuir6/Fantasy-Football-Dashboard)
+5 | [HackerRank Solutions](https://github.com/iainmuir6/HackerRank-Solutions)
 
 <!--
 **iainmuir6/iainmuir6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
