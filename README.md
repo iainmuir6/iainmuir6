@@ -6,7 +6,7 @@
 - 📫   How to reach me: [Email](iam9ez@virginia.edu) | [LinkedIn](https://www.linkedin.com/in/iain-muir-b37718164/)
 
 ## Current Repositories
-Number | Repository
+\# | Repository
 ------------ | -------------
 1 | [Machine Learning with Coronavirus Data](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data)
 2 | [Morning Scoop: Sports, News, and Fantasy](https://github.com/iainmuir6/MorningScoop-Sports-News-Fantasy)
