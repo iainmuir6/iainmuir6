@@ -1,9 +1,10 @@
 ## Hi there, I'm Iain 👋
 
-- 💻   I'm an Analytics and Data Strategy Intern at [Ankura](https://ankura.com/)
+- 👔    I'm an Analytics and Data Strategy Intern at [Ankura](https://ankura.com/)
 - 🎒   I'm a rising senior at the University of Virginia, studying Finance and Information Technology in the McIntire School of Commerce; I'm also minoring in Computer Science and Data Science
 - 🌱   I’m currently learning Machine and Deep Learning algorithms
 - 📫   How to reach me: [Email](iam9ez@virginia.edu) | [LinkedIn](https://www.linkedin.com/in/iain-muir-b37718164/)
+- 💻   Personal Website: [Iain Muir](https://iainmuir6.github.io/)
 
 ## Current Repositories
 \# | Repository
