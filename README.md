@@ -1,6 +1,6 @@
 ## Hi there, I'm Iain 👋
 
-- 👔    I'm a Data Science Intern at [DataRobot](https://www.datarobot.com/)
+- 👔    I'm a Technical Support Engineer at [DataRobot](https://www.datarobot.com/)
 - 🎒   I'm a rising senior at the University of Virginia, studying Finance and Information Technology in the McIntire School of Commerce; I'm also minoring in Computer Science and Data Science
 - 🌱   I’m currently learning Machine and Deep Learning algorithms
 - 📫   How to reach me: [Email](iam9ez@virginia.edu) | [LinkedIn](https://www.linkedin.com/in/iain-muir-b37718164/)
