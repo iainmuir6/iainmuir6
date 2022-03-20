@@ -6,7 +6,7 @@
 - 📫   How to reach me: [Email](iam9ez@virginia.edu) | [LinkedIn](https://www.linkedin.com/in/iain-muir-b37718164/)
 - 💻   Personal Website: [Iain Muir](https://iainmuir6.github.io/)
 
-## Current Repositories
+## Personal Project Repositories
 \# | Repository
 ------------ | -------------
 1 | [Machine Learning with Coronavirus Data](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data)
@@ -15,7 +15,12 @@
 4 | [Fantasy Football Dashboard](https://github.com/iainmuir6/Fantasy-Football-Dashboard)
 5 | [Sports Highlights Dashboard](https://github.com/iainmuir6/Sports-Highlights-Dashboard)
 6 | [HackerRank mySQL Solutions](https://github.com/iainmuir6/HackerRank-mySQL-Solutions)
-7 | [CS 2150 - Program and Data Represenatation](https://github.com/iainmuir6/Program-and-Data-Representation)
+
+## Coursework Repositories
+\# | Repository
+------------ | -------------
+1 | [CS 2150 - Program and Data Represenatation](https://github.com/iainmuir6/Program-and-Data-Representation)
+2 | [DS 3001 Final Project - Socio-Economic Clustering](https://github.com/iainmuir6/Socio-Economic-Clustering)
 
 <!--
 **iainmuir6/iainmuir6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
