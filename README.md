@@ -10,7 +10,7 @@
 \# | Repository
 ------------ | -------------
 1 | [Machine Learning with Coronavirus Data](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data)
-2 | [Information Aggregation](https://github.com/iainmuir6/Information-Aggregator)
+2 | [Information Aggregator](https://github.com/iainmuir6/Information-Aggregator)
 3 | [End of Day Portfolio Analysis](https://github.com/iainmuir6/Portfolio-Analysis)
 4 | [Morning Scoop: Sports, News, and Fantasy](https://github.com/iainmuir6/MorningScoop-Sports-News-Fantasy)
 5 | [Financial Data Analysis Dashboard](https://github.com/iainmuir6/Financial-Data-Analysis-Dashboard)
