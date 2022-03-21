@@ -21,8 +21,9 @@
 ## Coursework Repositories
 \# | Repository
 ------------ | -------------
-1 | [CS 2150 - Program and Data Represenatation](https://github.com/iainmuir6/Program-and-Data-Representation)
-2 | [DS 3001 Final Project - Socio-Economic Clustering](https://github.com/iainmuir6/Socio-Economic-Clustering)
+1 | [CS 4774 - Machine Learning for Virginia](https://github.com/iainmuir6/Machine-Learning-for-Virginia)
+2 | [CS 2150 - Program and Data Represenatation](https://github.com/iainmuir6/Program-and-Data-Representation)
+3 | [DS 3001 Final Project - Socio-Economic Clustering](https://github.com/iainmuir6/Socio-Economic-Clustering)
 
 <!--
 **iainmuir6/iainmuir6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
