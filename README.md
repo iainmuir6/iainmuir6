@@ -16,7 +16,8 @@
 5 | [Financial Data Analysis Dashboard](https://github.com/iainmuir6/Financial-Data-Analysis-Dashboard)
 6 | [Fantasy Football Dashboard](https://github.com/iainmuir6/Fantasy-Football-Dashboard)
 7 | [Sports Highlights Dashboard](https://github.com/iainmuir6/Sports-Highlights-Dashboard)
-8 | [HackerRank mySQL Solutions](https://github.com/iainmuir6/HackerRank-mySQL-Solutions)
+8 | [GitHub Pages Personal Website](https://github.com/iainmuir6/iainmuir6.github.io)
+9 | [HackerRank mySQL Solutions](https://github.com/iainmuir6/HackerRank-mySQL-Solutions)
 
 ## Coursework Repositories
 \# | Repository
