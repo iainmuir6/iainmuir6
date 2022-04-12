@@ -1,6 +1,6 @@
 ## Hi there, I'm Iain 👋
 
-- 👔    I'm a Technical Support Engineer at <a href="https://www.datarobot.com/" target="_new">DataRobot</a>
+- 👔    I'm an Incoming Analytics and Data Strategy Associate at <a href="https://ankura.com/" target="_new">Ankura</a>
 - 🎒   I'm a senior at the University of Virginia, studying Finance, Information Technology, and Quantitative Finance in the McIntire School of Commerce; I'm also minoring in Computer Science and Data Science
 - 🌱   I’m currently learning Machine and Deep Learning algorithms
 - 📫   How to reach me: [Email](mailto:iam9ez@virginia.edu) | <a href="https://www.linkedin.com/in/iain-a-muir/" target="_new">LinkedIn</a>
