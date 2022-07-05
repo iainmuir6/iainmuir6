@@ -25,7 +25,8 @@
 1 | [CS 4774 - Machine Learning for Virginia](https://github.com/iainmuir6/Machine-Learning-for-Virginia)
 2 | [CS 2150 - Program and Data Represenatation](https://github.com/iainmuir6/Program-and-Data-Representation)
 3 | [STAT 4800 - Advanced Sports Analytics](https://github.com/iainmuir6/Advanced-Sports-Analytics)
-4 | [DS 3001 Final Project - Socio-Economic Clustering](https://github.com/iainmuir6/Socio-Economic-Clustering)
+4 | [COMM 4522 - Predicting Airline Passenger Satisfaction](https://github.com/iainmuir6/Predicting-Airline-Passnger-Satisfaction)
+5 | [DS 3001 Final Project - Socio-Economic Clustering](https://github.com/iainmuir6/Socio-Economic-Clustering)
 
 <!--
 **iainmuir6/iainmuir6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
