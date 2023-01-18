@@ -1,6 +1,6 @@
 ## Hi there, I'm Iain 👋
 
-- 👔   I'm an Incoming Analytics and Data Strategy Associate at <a href="https://ankura.com/" target="_new">Ankura</a>
+- 👔   I'm an Analytics and Data Strategy Associate at <a href="https://ankura.com/" target="_new">Ankura</a>
 - 🎒   I graduated from University of Virginia's McIntire School of Commerce with a B.S. in Commerce. I concentrated in Finance and Information Technology, with a track in Quantitative Finance; I also completed minors in Computer Science and Data Science.
 - 🌱   I’m currently learning Machine and Deep Learning algorithms
 - 📫   How to reach me: [Email](mailto:iam9ez@virginia.edu) | <a href="https://www.linkedin.com/in/iain-a-muir/" target="_new">LinkedIn</a>
