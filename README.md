@@ -3,7 +3,7 @@
 - 👔   I'm an Senior Data Analyst at <a href="http://scoutsconsulting.com/" target="_new">Scouts</a>
 - 🎒   I have a BS in Commerce with concentrations in Finance and IT and a track in Quantitative Finance from the University of Virginia; I also completed minors in Computer Science and Data Science. 
 - 📫   How to reach me: [Email](mailto:iam9ez@virginia.edu) | <a href="https://www.linkedin.com/in/iain-a-muir/" target="_new">LinkedIn</a>
-- 💻   Personal Website: <a href="https://iainmuir6.github.io/" target="_new">Iain Muir</a>
+- 💻   Personal Website: <a href="https://www.iamuir.com/" target="_new">Iain Muir</a>
 <!--- 🌱   I’m currently learning Machine and Deep Learning algorithms-->
 
 ## Personal Project Repositories
