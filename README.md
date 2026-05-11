@@ -9,6 +9,13 @@
 ## Personal Project Repositories
 \# | Repository
 ------------ | -------------
+1 | [Coffee Database](https://coffee-database.vercel.app/)
+2 | [Movie Rankings](https://lk-movie-rankings.vercel.app/)
+3 | [Information Aggregator](https://info-agg-website.vercel.app/)
+4 | [NYC Apartment Search](https://street-easy-wrapper.vercel.app/)
+5 | [Machine Learning with Coronavirus Data](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data)
+
+<!--- 
 1 | [Machine Learning with Coronavirus Data](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data)
 2 | [Information Aggregator](https://github.com/iainmuir6/Information-Aggregator)
 3 | [End of Day Portfolio Analysis](https://github.com/iainmuir6/Portfolio-Analysis)
@@ -18,6 +25,7 @@
 7 | [Sports Highlights Dashboard](https://github.com/iainmuir6/Sports-Highlights-Dashboard)
 8 | [GitHub Pages Personal Website](https://github.com/iainmuir6/iainmuir6.github.io)
 9 | [HackerRank mySQL Solutions](https://github.com/iainmuir6/HackerRank-mySQL-Solutions)
+-->
 
 ## Coursework Repositories
 \# | Repository
@@ -28,17 +36,3 @@
 4 | [COMM 4522 - Predicting Airline Passenger Satisfaction](https://github.com/iainmuir6/Predicting-Airline-Passnger-Satisfaction)
 5 | [DS 3001 Final Project - Socio-Economic Clustering](https://github.com/iainmuir6/Socio-Economic-Clustering)
 
-<!--
-**iainmuir6/iainmuir6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
