@@ -2,7 +2,7 @@
 
 # Iain A. Muir
 
-<b>Senior Data Analyst at</b>&nbsp;<a href="https://scoutsconsulting.com/"><img src="assets/scouts.png#gh-light-mode-only" alt="Scouts Consulting Group" height="16" align="absmiddle"><img src="assets/scouts-white.png#gh-dark-mode-only" alt="Scouts Consulting Group" height="16" align="absmiddle"></a>
+<b>Senior Data Analyst at</b>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/scouts-white.png"><img src="assets/scouts.png" alt="Scouts Consulting Group" height="16" align="absmiddle"></picture>
 
 Data analytics, ML & full-stack development
 
@@ -28,12 +28,12 @@ Data analytics, ML & full-stack development
 <table align="center">
   <tr><td align="center"><b><a href="https://coffee-database.vercel.app/">Coffee Database</a></b><br><sub>Database for tracking and ranking coffee beans.</sub></td></tr>
   <tr><td align="center"><b><a href="https://lk-movie-rankings.vercel.app/">Movie Rankings</a></b><br><sub>Personalized movie rankings, created using Liam Kaley's algorithm.</sub></td></tr>
-  <tr><td align="center"><b><a href="https://info-agg-website.vercel.app/">Info Aggregator</a>&nbsp;<a href="https://github.com/iainmuir6/info-agg-website"><img src="assets/github-light.svg#gh-light-mode-only" width="14" height="14" align="absmiddle" alt="GitHub repository"><img src="assets/github-dark.svg#gh-dark-mode-only" width="14" height="14" align="absmiddle" alt="GitHub repository"></a></b><br><sub>Daily automated report aggregating sports, world news, financial markets, and more.</sub></td></tr>
+  <tr><td align="center"><b><a href="https://info-agg-website.vercel.app/">Info Aggregator</a>&nbsp;<a href="https://github.com/iainmuir6/info-agg-website"><img src="assets/github.svg" width="14" height="14" align="absmiddle" alt="GitHub repository"></a></b><br><sub>Daily automated report aggregating sports, world news, financial markets, and more.</sub></td></tr>
   <tr><td align="center"><b><a href="https://street-easy-wrapper.vercel.app/">NYC Apt Search</a></b><br><sub>Personal search/ranking tool for NYC apartments, pulling listing data from Street Easy.</sub></td></tr>
   <tr><td align="center"><b><a href="https://fantasy-football-research.vercel.app/">FFB Hub</a></b><br><sub>League-specific fantasy football analysis, rankings, projections, and matchup breakdowns.</sub></td></tr>
   <tr><td align="center"><b><a href="https://fore-scoring.vercel.app/">Fore Score</a></b><br><sub>Live golf trip scoring: real-time leaderboards, handicaps, and stroke play, Stableford, match play and skins.</sub></td></tr>
-  <tr><td align="center"><b><a href="https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data">COVID-19 Study</a></b>&nbsp;<a href="https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data"><img src="assets/github-light.svg#gh-light-mode-only" width="14" height="14" align="absmiddle" alt="GitHub repository"><img src="assets/github-dark.svg#gh-dark-mode-only" width="14" height="14" align="absmiddle" alt="GitHub repository"></a><br><sub>Independent study exploring machine learning model performance on COVID-19 datasets.</sub></td></tr>
-  <tr><td align="center"><b><a href="https://github.com/iainmuir6/Portfolio-Analysis">Portfolio Analysis</a></b>&nbsp;<a href="https://github.com/iainmuir6/Portfolio-Analysis"><img src="assets/github-light.svg#gh-light-mode-only" width="14" height="14" align="absmiddle" alt="GitHub repository"><img src="assets/github-dark.svg#gh-dark-mode-only" width="14" height="14" align="absmiddle" alt="GitHub repository"></a><br><sub>End of market hours summary and analysis of a Robinhood stock portfolio.</sub></td></tr>
+  <tr><td align="center"><b><a href="https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data">COVID-19 Study</a></b>&nbsp;<a href="https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data"><img src="assets/github.svg" width="14" height="14" align="absmiddle" alt="GitHub repository"></a><br><sub>Independent study exploring machine learning model performance on COVID-19 datasets.</sub></td></tr>
+  <tr><td align="center"><b><a href="https://github.com/iainmuir6/Portfolio-Analysis">Portfolio Analysis</a></b>&nbsp;<a href="https://github.com/iainmuir6/Portfolio-Analysis"><img src="assets/github.svg" width="14" height="14" align="absmiddle" alt="GitHub repository"></a><br><sub>End of market hours summary and analysis of a Robinhood stock portfolio.</sub></td></tr>
 </table>
 
 ## Experience
