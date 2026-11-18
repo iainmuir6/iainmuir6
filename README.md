@@ -26,7 +26,6 @@ Data analytics, ML & full-stack development
 ## Projects
 
 <table align="center">
-  <tr><th><img src="assets/spacer.png" width="780" height="1" alt=""><br>Project</th></tr>
   <tr><td align="center"><b><a href="https://coffee-database.vercel.app/">Coffee Database</a></b><br><sub>Database for tracking and ranking coffee beans.</sub></td></tr>
   <tr><td align="center"><b><a href="https://lk-movie-rankings.vercel.app/">Movie Rankings</a></b><br><sub>Personalized movie rankings, created using Liam Kaley's algorithm.</sub></td></tr>
   <tr><td align="center"><b><a href="https://info-agg-website.vercel.app/">Info Aggregator</a> ·&nbsp;<a href="https://github.com/iainmuir6/info-agg-website">Repo</a></b><br><sub>Daily automated report aggregating sports, world news, financial markets, and more.</sub></td></tr>
@@ -34,19 +33,18 @@ Data analytics, ML & full-stack development
   <tr><td align="center"><b><a href="https://fantasy-football-research.vercel.app/">FFB Hub</a></b><br><sub>League-specific fantasy football analysis, rankings, projections, and matchup breakdowns.</sub></td></tr>
   <tr><td align="center"><b><a href="https://fore-scoring.vercel.app/">Fore Score</a></b><br><sub>Live golf trip scoring: real-time leaderboards, handicaps, and stroke play, Stableford, match play and skins.</sub></td></tr>
   <tr><td align="center"><b><a href="https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data">COVID-19 Study</a></b><br><sub>Independent study exploring machine learning model performance on COVID-19 datasets.</sub></td></tr>
-  <tr><td align="center"><b><a href="https://github.com/iainmuir6/Portfolio-Analysis">Portfolio Analysis</a></b><br><sub>End of market hours summary and analysis of a Robinhood stock portfolio.</sub></td></tr>
+  <tr><td align="center"><b><a href="https://github.com/iainmuir6/Portfolio-Analysis">Portfolio Analysis</a></b><br><sub>End of market hours summary and analysis of a Robinhood stock portfolio.</sub><br><img src="assets/spacer.png" width="780" height="1" alt=""></td></tr>
 </table>
 
 ## Experience
 
 <table align="center">
-  <tr><th><img src="assets/spacer.png" width="84" height="1" alt=""><br>Company</th><th><img src="assets/spacer.png" width="437" height="1" alt=""><br>Role</th><th><img src="assets/spacer.png" width="207" height="1" alt=""><br>Dates</th></tr>
-  <tr><td align="center"><img src="assets/logos/scouts.png" width="84" height="35" alt="Scouts Consulting Group"></td><td><b>Senior Data Analyst</b></td><td align="center"><sub>Mar 2024 – Present</sub></td></tr>
-  <tr><td align="center"><img src="assets/logos/ankura.png" width="84" height="35" alt="Ankura"></td><td><b>Analytics &amp; Data Strategy</b></td><td align="center"><sub>Jun 2021 – Dec 2023</sub></td></tr>
-  <tr><td align="center"><img src="assets/logos/data-robot.png" width="84" height="35" alt="DataRobot"></td><td><b>Technical Support Engineer</b></td><td align="center"><sub>Sep 2021 – Apr 2022</sub></td></tr>
-  <tr><td align="center"><img src="assets/logos/capital-caring.png" width="84" height="35" alt="Capital Caring Health"></td><td><b>Data Analyst</b></td><td align="center"><sub>Jul 2020 – Nov 2020</sub></td></tr>
-  <tr><td align="center"><img src="assets/logos/autumn-wind.png" width="84" height="35" alt="Autumn Wind Asset Mgmt."></td><td><b>Data Analyst</b></td><td align="center"><sub>May 2020 – Jul 2020</sub></td></tr>
-  <tr><td align="center"><img src="assets/logos/razors-edge.png" width="84" height="35" alt="Razor's Edge Ventures"></td><td><b>Investment Analysis Intern</b></td><td align="center"><sub>May 2018 – Jun 2019</sub></td></tr>
+  <tr><td align="center"><img src="assets/logos/scouts.png" width="84" height="35" alt="Scouts Consulting Group"><br><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</sub></td><td><b>Scouts Consulting Group</b><br>Senior Data Analyst</td><td align="right"><sub>Mar&nbsp;2024<br>to<br>Present</sub></td></tr>
+  <tr><td align="center"><img src="assets/logos/ankura.png" width="84" height="35" alt="Ankura"><br><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</sub></td><td><b>Ankura</b><br>Analytics &amp; Data Strategy<br><sub>↳ Associate · Sep 2022</sub><br><sub>↳ Intern · Jun 2021</sub></td><td align="right"><sub>Jun&nbsp;2021<br>to<br>Dec&nbsp;2023</sub></td></tr>
+  <tr><td align="center"><img src="assets/logos/data-robot.png" width="84" height="35" alt="DataRobot"><br><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</sub></td><td><b>DataRobot</b><br>Technical Support Engineer</td><td align="right"><sub>Sep&nbsp;2021<br>to<br>Apr&nbsp;2022</sub></td></tr>
+  <tr><td align="center"><img src="assets/logos/capital-caring.png" width="84" height="35" alt="Capital Caring Health"><br><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</sub></td><td><b>Capital Caring Health</b><br>Data Analyst</td><td align="right"><sub>Jul&nbsp;2020<br>to<br>Nov&nbsp;2020</sub></td></tr>
+  <tr><td align="center"><img src="assets/logos/autumn-wind.png" width="84" height="35" alt="Autumn Wind Asset Mgmt."><br><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</sub></td><td><b>Autumn Wind Asset Mgmt.</b><br>Data Analyst</td><td align="right"><sub>May&nbsp;2020<br>to<br>Jul&nbsp;2020</sub></td></tr>
+  <tr><td align="center"><img src="assets/logos/razors-edge.png" width="84" height="35" alt="Razor's Edge Ventures"><br><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</sub></td><td><b>Razor's Edge Ventures</b><br>Investment Analysis Intern<br><img src="assets/spacer.png" width="567" height="1" alt=""></td><td align="right"><sub>May&nbsp;2018<br>to<br>Jun&nbsp;2019</sub></td></tr>
 </table>
 
 ## Education
