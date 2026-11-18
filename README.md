@@ -2,9 +2,9 @@
 
 # Iain A. Muir
 
-<b>Senior Data Analyst at</b>&nbsp;<a href="https://scoutsconsulting.com/"><img src="assets/scouts.png#gh-light-mode-only" alt="Scouts Consulting Group" height="16" align="center"><img src="assets/scouts-white.png#gh-dark-mode-only" alt="Scouts Consulting Group" height="16" align="center"></a>
+<b>Senior Data Analyst at</b>&nbsp;<a href="https://scoutsconsulting.com/"><img src="assets/scouts.png#gh-light-mode-only" alt="Scouts Consulting Group" height="16" align="absmiddle"><img src="assets/scouts-white.png#gh-dark-mode-only" alt="Scouts Consulting Group" height="16" align="absmiddle"></a>
 
-Data analytics, machine learning, & full-stack development
+Data analytics, ML & full-stack development
 
 [![Website](https://img.shields.io/badge/Website-iamuir.com-3B82F6?style=flat-square&labelColor=1F2937)](https://www.iamuir.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iain--a--muir-3B82F6?style=flat-square&labelColor=1F2937)](https://www.linkedin.com/in/iain-a-muir/)
@@ -25,23 +25,28 @@ Data analytics, machine learning, & full-stack development
 
 ## Projects
 
-<p><b><a href="https://coffee-database.vercel.app/">Coffee Database</a></b><br><sub>Database for tracking and ranking coffee beans.</sub></p>
-<p><b><a href="https://lk-movie-rankings.vercel.app/">Movie Rankings</a></b><br><sub>Personalized movie rankings, created using Liam Kaley's algorithm.</sub></p>
-<p><b><a href="https://info-agg-website.vercel.app/">Info Aggregator</a> ·&nbsp;<a href="https://github.com/iainmuir6/info-agg-website">Repo</a></b><br><sub>Daily automated report aggregating sports, world news, financial markets, and more.</sub></p>
-<p><b><a href="https://street-easy-wrapper.vercel.app/">NYC Apt Search</a></b><br><sub>Personal search/ranking tool for NYC apartments, pulling listing data from Street Easy.</sub></p>
-<p><b><a href="https://fantasy-football-research.vercel.app/">FFB Hub</a></b><br><sub>League-specific fantasy football analysis, rankings, projections, and matchup breakdowns.</sub></p>
-<p><b><a href="https://fore-scoring.vercel.app/">Fore Score</a></b><br><sub>Live golf trip scoring: real-time leaderboards, handicaps, and stroke play, Stableford, match play and skins.</sub></p>
-<p><b><a href="https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data">COVID-19 Study</a></b><br><sub>Independent study exploring machine learning model performance on COVID-19 datasets.</sub></p>
-<p><b><a href="https://github.com/iainmuir6/Portfolio-Analysis">Portfolio Analysis</a></b><br><sub>End of market hours summary and analysis of a Robinhood stock portfolio.</sub></p>
+<table align="center">
+  <tr><td align="center"><b><a href="https://coffee-database.vercel.app/">Coffee Database</a></b><br><sub>Database for tracking and ranking coffee beans.</sub></td></tr>
+  <tr><td align="center"><b><a href="https://lk-movie-rankings.vercel.app/">Movie Rankings</a></b><br><sub>Personalized movie rankings, created using Liam Kaley's algorithm.</sub></td></tr>
+  <tr><td align="center"><b><a href="https://info-agg-website.vercel.app/">Info Aggregator</a> ·&nbsp;<a href="https://github.com/iainmuir6/info-agg-website">Repo</a></b><br><sub>Daily automated report aggregating sports, world news, financial markets, and more.</sub></td></tr>
+  <tr><td align="center"><b><a href="https://street-easy-wrapper.vercel.app/">NYC Apt Search</a></b><br><sub>Personal search/ranking tool for NYC apartments, pulling listing data from Street Easy.</sub></td></tr>
+  <tr><td align="center"><b><a href="https://fantasy-football-research.vercel.app/">FFB Hub</a></b><br><sub>League-specific fantasy football analysis, rankings, projections, and matchup breakdowns.</sub></td></tr>
+  <tr><td align="center"><b><a href="https://fore-scoring.vercel.app/">Fore Score</a></b><br><sub>Live golf trip scoring: real-time leaderboards, handicaps, and stroke play, Stableford, match play and skins.</sub></td></tr>
+  <tr><td align="center"><b><a href="https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data">COVID-19 Study</a></b><br><sub>Independent study exploring machine learning model performance on COVID-19 datasets.</sub></td></tr>
+  <tr><td align="center"><b><a href="https://github.com/iainmuir6/Portfolio-Analysis">Portfolio Analysis</a></b><br><sub>End of market hours summary and analysis of a Robinhood stock portfolio.</sub></td></tr>
+</table>
 
 ## Experience
 
-<p><b>Senior Data Analyst</b><br><sub>Scouts Consulting Group · Mar 2024 – Present</sub></p>
-<p><b>Analytics &amp; Data Strategy</b><br><sub>Ankura · Jun 2021 – Dec 2023</sub></p>
-<p><b>Technical Support Engineer</b><br><sub>DataRobot · Sep 2021 – Apr 2022</sub></p>
-<p><b>Data Analyst</b><br><sub>Capital Caring Health · Jul 2020 – Nov 2020</sub></p>
-<p><b>Data Analyst</b><br><sub>Autumn Wind Asset Mgmt. · May 2020 – Jul 2020</sub></p>
-<p><b>Investment Analysis Intern</b><br><sub>Razor's Edge Ventures · May 2018 – Jun 2019</sub></p>
+<table align="center">
+  <tr><th>Role</th><th>Dates</th></tr>
+  <tr><td><b>Senior Data Analyst</b><br><sub>Scouts Consulting Group</sub></td><td align="center"><sub>Mar 2024 – Present</sub></td></tr>
+  <tr><td><b>Analytics &amp; Data Strategy</b><br><sub>Ankura</sub></td><td align="center"><sub>Jun 2021 – Dec 2023</sub></td></tr>
+  <tr><td><b>Technical Support Engineer</b><br><sub>DataRobot</sub></td><td align="center"><sub>Sep 2021 – Apr 2022</sub></td></tr>
+  <tr><td><b>Data Analyst</b><br><sub>Capital Caring Health</sub></td><td align="center"><sub>Jul 2020 – Nov 2020</sub></td></tr>
+  <tr><td><b>Data Analyst</b><br><sub>Autumn Wind Asset Mgmt.</sub></td><td align="center"><sub>May 2020 – Jul 2020</sub></td></tr>
+  <tr><td><b>Investment Analysis Intern</b><br><sub>Razor's Edge Ventures</sub></td><td align="center"><sub>May 2018 – Jun 2019</sub></td></tr>
+</table>
 
 ## Education
 
@@ -59,11 +64,14 @@ Data analytics, machine learning, & full-stack development
 <summary><b>Coursework</b></summary>
 <br>
 
-<p><b><a href="https://github.com/iainmuir6/Machine-Learning-for-Virginia">Machine Learning for Virginia</a></b><br><sub>CS 4774 · Machine Learning</sub></p>
-<p><b><a href="https://github.com/iainmuir6/Program-and-Data-Representation">Program and Data Representation</a></b><br><sub>CS 2150 · Program and Data Representation</sub></p>
-<p><b><a href="https://github.com/iainmuir6/Advanced-Sports-Analytics">Advanced Sports Analytics</a></b><br><sub>STAT 4800 · Advanced Sports Analytics</sub></p>
-<p><b><a href="https://github.com/iainmuir6/Predicting-Airline-Passnger-Satisfaction">Predicting Airline Passenger Satisfaction</a></b><br><sub>COMM 4522 · Airline Passenger Satisfaction</sub></p>
-<p><b><a href="https://github.com/iainmuir6/Socio-Economic-Clustering">Socio-Economic Clustering</a></b><br><sub>DS 3001 · Socio-Economic Clustering</sub></p>
+<table>
+  <tr><th>Course</th><th>Repository</th></tr>
+  <tr><td>CS 4774<br><sub>Machine Learning</sub></td><td><a href="https://github.com/iainmuir6/Machine-Learning-for-Virginia">Machine Learning for Virginia</a></td></tr>
+  <tr><td>CS 2150<br><sub>Program and Data Representation</sub></td><td><a href="https://github.com/iainmuir6/Program-and-Data-Representation">Program and Data Representation</a></td></tr>
+  <tr><td>STAT 4800<br><sub>Advanced Sports Analytics</sub></td><td><a href="https://github.com/iainmuir6/Advanced-Sports-Analytics">Advanced Sports Analytics</a></td></tr>
+  <tr><td>COMM 4522<br><sub>Airline Passenger Satisfaction</sub></td><td><a href="https://github.com/iainmuir6/Predicting-Airline-Passnger-Satisfaction">Predicting Airline Passenger Satisfaction</a></td></tr>
+  <tr><td>DS 3001<br><sub>Socio-Economic Clustering</sub></td><td><a href="https://github.com/iainmuir6/Socio-Economic-Clustering">Socio-Economic Clustering</a></td></tr>
+</table>
 
 </details>
 
