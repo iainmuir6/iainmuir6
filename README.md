@@ -2,7 +2,7 @@
 
 # Iain A. Muir
 
-**Senior Data Analyst at [Scouts Consulting Group](https://scoutsconsulting.com/)**
+<b>Senior Data Analyst at</b>&nbsp;<a href="https://scoutsconsulting.com/"><img src="assets/scouts.png#gh-light-mode-only" alt="Scouts Consulting Group" height="16" align="center"><img src="assets/scouts-white.png#gh-dark-mode-only" alt="Scouts Consulting Group" height="16" align="center"></a>
 
 Data analytics, machine learning, & full-stack development
 
@@ -25,48 +25,14 @@ Data analytics, machine learning, & full-stack development
 
 ## Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b><a href="https://coffee-database.vercel.app/">Coffee Database</a></b><br>
-      <sub>Database for tracking and ranking coffee beans.</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b><a href="https://lk-movie-rankings.vercel.app/">Movie Rankings</a></b><br>
-      <sub>Personalized movie rankings, created using Liam Kaley's algorithm.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b><a href="https://info-agg-website.vercel.app/">Info Aggregator</a> ·&nbsp;<a href="https://github.com/iainmuir6/info-agg-website">Repo</a></b><br>
-      <sub>Daily automated report aggregating sports, world news, financial markets, and more.</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b><a href="https://street-easy-wrapper.vercel.app/">NYC Apt Search</a></b><br>
-      <sub>Personal search/ranking tool for NYC apartments, pulling listing data from Street Easy.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b><a href="https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data">COVID-19 Study</a></b><br>
-      <sub>Independent study exploring machine learning model performance on COVID-19 datasets.</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b><a href="https://github.com/iainmuir6/Portfolio-Analysis">Portfolio Analysis</a></b><br>
-      <sub>End of market hours summary and analysis of a Robinhood stock portfolio.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b><a href="https://fantasy-football-research.vercel.app/">FFB Hub</a></b><br>
-      <sub>League-specific fantasy football analysis, rankings, projections, and matchup breakdowns.</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b><a href="https://fore-scoring.vercel.app/">Fore Score</a></b><br>
-      <sub>Live golf trip scoring: real-time leaderboards, handicaps, and stroke play, Stableford, match play and skins.</sub>
-    </td>
-  </tr>
-</table>
+<p><b><a href="https://coffee-database.vercel.app/">Coffee Database</a></b><br><sub>Database for tracking and ranking coffee beans.</sub></p>
+<p><b><a href="https://lk-movie-rankings.vercel.app/">Movie Rankings</a></b><br><sub>Personalized movie rankings, created using Liam Kaley's algorithm.</sub></p>
+<p><b><a href="https://info-agg-website.vercel.app/">Info Aggregator</a> ·&nbsp;<a href="https://github.com/iainmuir6/info-agg-website">Repo</a></b><br><sub>Daily automated report aggregating sports, world news, financial markets, and more.</sub></p>
+<p><b><a href="https://street-easy-wrapper.vercel.app/">NYC Apt Search</a></b><br><sub>Personal search/ranking tool for NYC apartments, pulling listing data from Street Easy.</sub></p>
+<p><b><a href="https://fantasy-football-research.vercel.app/">FFB Hub</a></b><br><sub>League-specific fantasy football analysis, rankings, projections, and matchup breakdowns.</sub></p>
+<p><b><a href="https://fore-scoring.vercel.app/">Fore Score</a></b><br><sub>Live golf trip scoring: real-time leaderboards, handicaps, and stroke play, Stableford, match play and skins.</sub></p>
+<p><b><a href="https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data">COVID-19 Study</a></b><br><sub>Independent study exploring machine learning model performance on COVID-19 datasets.</sub></p>
+<p><b><a href="https://github.com/iainmuir6/Portfolio-Analysis">Portfolio Analysis</a></b><br><sub>End of market hours summary and analysis of a Robinhood stock portfolio.</sub></p>
 
 ## Experience
 
@@ -79,8 +45,15 @@ Data analytics, machine learning, & full-stack development
 
 ## Education
 
-**University of Virginia, McIntire School of Commerce '22**<br>
-BS in Commerce · Finance and IT Concentrations · Quantitative Finance Track · Computer Science and Data Science Minors
+<b>University of Virginia '22</b><br>
+<sub>McIntire School of Commerce</sub>
+
+<b>BS in Commerce</b><br>
+<sub>Finance and IT Concentrations</sub><br>
+<sub>Quantitative Finance Track</sub><br>
+<sub>Computer Science and Data Science Minors</sub>
+
+<div align="left">
 
 <details>
 <summary><b>Coursework</b></summary>
@@ -93,5 +66,7 @@ BS in Commerce · Finance and IT Concentrations · Quantitative Finance Track ·
 <p><b><a href="https://github.com/iainmuir6/Socio-Economic-Clustering">Socio-Economic Clustering</a></b><br><sub>DS 3001 · Socio-Economic Clustering</sub></p>
 
 </details>
+
+</div>
 
 </div>
