@@ -38,7 +38,7 @@ Data analytics, machine learning, & full-stack development
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <b><a href="https://info-agg-website.vercel.app/">Info Aggregator</a> · <a href="https://github.com/iainmuir6/info-agg-website">Repo</a></b><br>
+      <b><a href="https://info-agg-website.vercel.app/">Info Aggregator</a> ·&nbsp;<a href="https://github.com/iainmuir6/info-agg-website">Repo</a></b><br>
       <sub>Daily automated report aggregating sports, world news, financial markets, and more.</sub>
     </td>
     <td width="50%" align="center" valign="top">
@@ -70,15 +70,12 @@ Data analytics, machine learning, & full-stack development
 
 ## Experience
 
-<table align="center">
-  <tr><th>Role</th><th>Company</th><th>Dates</th></tr>
-  <tr><td align="center">Senior Data Analyst</td><td align="center">Scouts Consulting Group</td><td align="center">Mar 2024 – Present</td></tr>
-  <tr><td align="center">Analytics &amp; Data Strategy</td><td align="center">Ankura</td><td align="center">Jun 2021 – Dec 2023</td></tr>
-  <tr><td align="center">Technical Support Engineer</td><td align="center">DataRobot</td><td align="center">Sep 2021 – Apr 2022</td></tr>
-  <tr><td align="center">Data Analyst</td><td align="center">Capital Caring Health</td><td align="center">Jul 2020 – Nov 2020</td></tr>
-  <tr><td align="center">Data Analyst</td><td align="center">Autumn Wind Asset Mgmt.</td><td align="center">May 2020 – Jul 2020</td></tr>
-  <tr><td align="center">Investment Analysis Intern</td><td align="center">Razor's Edge Ventures</td><td align="center">May 2018 – Jun 2019</td></tr>
-</table>
+<p><b>Senior Data Analyst</b><br><sub>Scouts Consulting Group · Mar 2024 – Present</sub></p>
+<p><b>Analytics &amp; Data Strategy</b><br><sub>Ankura · Jun 2021 – Dec 2023</sub></p>
+<p><b>Technical Support Engineer</b><br><sub>DataRobot · Sep 2021 – Apr 2022</sub></p>
+<p><b>Data Analyst</b><br><sub>Capital Caring Health · Jul 2020 – Nov 2020</sub></p>
+<p><b>Data Analyst</b><br><sub>Autumn Wind Asset Mgmt. · May 2020 – Jul 2020</sub></p>
+<p><b>Investment Analysis Intern</b><br><sub>Razor's Edge Ventures · May 2018 – Jun 2019</sub></p>
 
 ## Education
 
@@ -89,14 +86,11 @@ BS in Commerce · Finance and IT Concentrations · Quantitative Finance Track ·
 <summary><b>Coursework</b></summary>
 <br>
 
-<table align="center">
-  <tr><th>Course</th><th>Repository</th></tr>
-  <tr><td align="center">CS 4774 · Machine Learning</td><td align="center"><a href="https://github.com/iainmuir6/Machine-Learning-for-Virginia">Machine Learning for Virginia</a></td></tr>
-  <tr><td align="center">CS 2150 · Program and Data Representation</td><td align="center"><a href="https://github.com/iainmuir6/Program-and-Data-Representation">Program and Data Representation</a></td></tr>
-  <tr><td align="center">STAT 4800 · Advanced Sports Analytics</td><td align="center"><a href="https://github.com/iainmuir6/Advanced-Sports-Analytics">Advanced Sports Analytics</a></td></tr>
-  <tr><td align="center">COMM 4522 · Airline Passenger Satisfaction</td><td align="center"><a href="https://github.com/iainmuir6/Predicting-Airline-Passnger-Satisfaction">Predicting Airline Passenger Satisfaction</a></td></tr>
-  <tr><td align="center">DS 3001 · Socio-Economic Clustering</td><td align="center"><a href="https://github.com/iainmuir6/Socio-Economic-Clustering">Socio-Economic Clustering</a></td></tr>
-</table>
+<p><b><a href="https://github.com/iainmuir6/Machine-Learning-for-Virginia">Machine Learning for Virginia</a></b><br><sub>CS 4774 · Machine Learning</sub></p>
+<p><b><a href="https://github.com/iainmuir6/Program-and-Data-Representation">Program and Data Representation</a></b><br><sub>CS 2150 · Program and Data Representation</sub></p>
+<p><b><a href="https://github.com/iainmuir6/Advanced-Sports-Analytics">Advanced Sports Analytics</a></b><br><sub>STAT 4800 · Advanced Sports Analytics</sub></p>
+<p><b><a href="https://github.com/iainmuir6/Predicting-Airline-Passnger-Satisfaction">Predicting Airline Passenger Satisfaction</a></b><br><sub>COMM 4522 · Airline Passenger Satisfaction</sub></p>
+<p><b><a href="https://github.com/iainmuir6/Socio-Economic-Clustering">Socio-Economic Clustering</a></b><br><sub>DS 3001 · Socio-Economic Clustering</sub></p>
 
 </details>
 
