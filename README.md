@@ -33,7 +33,7 @@ Data analytics, ML & full-stack development
   <tr><td align="center"><b><a href="https://fantasy-football-research.vercel.app/">FFB Hub</a></b><br><sub>League-specific fantasy football analysis, rankings, projections, and matchup breakdowns.</sub></td></tr>
   <tr><td align="center"><b><a href="https://fore-scoring.vercel.app/">Fore Score</a></b><br><sub>Live golf trip scoring: real-time leaderboards, handicaps, and stroke play, Stableford, match play and skins.</sub></td></tr>
   <tr><td align="center"><b><a href="https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data">COVID-19 Study</a></b><br><sub>Independent study exploring machine learning model performance on COVID-19 datasets.</sub></td></tr>
-  <tr><td align="center"><b><a href="https://github.com/iainmuir6/Portfolio-Analysis">Portfolio Analysis</a></b><br><sub>End of market hours summary and analysis of a Robinhood stock portfolio.</sub><br><img src="assets/spacer.png" width="780" height="1" alt=""></td></tr>
+  <tr><td align="center"><b><a href="https://github.com/iainmuir6/Portfolio-Analysis">Portfolio Analysis</a></b><br><sub>End of market hours summary and analysis of a Robinhood stock portfolio.</sub></td></tr>
 </table>
 
 ## Experience
