@@ -38,14 +38,27 @@ Data analytics, ML & full-stack development
 
 ## Experience
 
-<table align="center">
-  <tr><td align="center"><img src="assets/logos/scouts.png" width="84" height="35" alt="Scouts Consulting Group"><br><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</sub></td><td><b>Scouts Consulting Group</b><br>Senior Data Analyst</td><td align="right"><sub>Mar&nbsp;2024<br>to<br>Present</sub></td></tr>
-  <tr><td align="center"><img src="assets/logos/ankura.png" width="84" height="35" alt="Ankura"><br><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</sub></td><td><b>Ankura</b><br>Analytics &amp; Data Strategy<br><sub>↳ Associate · Sep 2022</sub><br><sub>↳ Intern · Jun 2021</sub></td><td align="right"><sub>Jun&nbsp;2021<br>to<br>Dec&nbsp;2023</sub></td></tr>
-  <tr><td align="center"><img src="assets/logos/data-robot.png" width="84" height="35" alt="DataRobot"><br><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</sub></td><td><b>DataRobot</b><br>Technical Support Engineer</td><td align="right"><sub>Sep&nbsp;2021<br>to<br>Apr&nbsp;2022</sub></td></tr>
-  <tr><td align="center"><img src="assets/logos/capital-caring.png" width="84" height="35" alt="Capital Caring Health"><br><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</sub></td><td><b>Capital Caring Health</b><br>Data Analyst</td><td align="right"><sub>Jul&nbsp;2020<br>to<br>Nov&nbsp;2020</sub></td></tr>
-  <tr><td align="center"><img src="assets/logos/autumn-wind.png" width="84" height="35" alt="Autumn Wind Asset Mgmt."><br><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</sub></td><td><b>Autumn Wind Asset Mgmt.</b><br>Data Analyst</td><td align="right"><sub>May&nbsp;2020<br>to<br>Jul&nbsp;2020</sub></td></tr>
-  <tr><td align="center"><img src="assets/logos/razors-edge.png" width="84" height="35" alt="Razor's Edge Ventures"><br><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</sub></td><td><b>Razor's Edge Ventures</b><br>Investment Analysis Intern<br><img src="assets/spacer.png" width="567" height="1" alt=""></td><td align="right"><sub>May&nbsp;2018<br>to<br>Jun&nbsp;2019</sub></td></tr>
-</table>
+<div align="left">
+
+<p><img src="assets/logos/scouts-row.png" width="96" height="84" align="left" hspace="12" alt="Scouts Consulting Group"><b>Scouts Consulting Group</b><br>Senior Data Analyst<br><sub>Mar 2024 – Present</sub></p>
+<br clear="left">
+
+<p><img src="assets/logos/ankura-row.png" width="96" height="84" align="left" hspace="12" alt="Ankura"><b>Ankura</b><br>Analytics &amp; Data Strategy<br><sub>Jun 2021 – Dec 2023</sub></p>
+<br clear="left">
+
+<p><img src="assets/logos/data-robot-row.png" width="96" height="84" align="left" hspace="12" alt="DataRobot"><b>DataRobot</b><br>Technical Support Engineer<br><sub>Sep 2021 – Apr 2022</sub></p>
+<br clear="left">
+
+<p><img src="assets/logos/capital-caring-row.png" width="96" height="84" align="left" hspace="12" alt="Capital Caring Health"><b>Capital Caring Health</b><br>Data Analyst<br><sub>Jul 2020 – Nov 2020</sub></p>
+<br clear="left">
+
+<p><img src="assets/logos/autumn-wind-row.png" width="96" height="84" align="left" hspace="12" alt="Autumn Wind Asset Mgmt."><b>Autumn Wind Asset Mgmt.</b><br>Data Analyst<br><sub>May 2020 – Jul 2020</sub></p>
+<br clear="left">
+
+<p><img src="assets/logos/razors-edge-row.png" width="96" height="84" align="left" hspace="12" alt="Razor's Edge Ventures"><b>Razor's Edge Ventures</b><br>Investment Analysis Intern<br><sub>May 2018 – Jun 2019</sub></p>
+<br clear="left">
+
+</div>
 
 ## Education
 
