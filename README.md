@@ -40,15 +40,11 @@ Data analytics, ML & full-stack development
 
 <p align="center"><img src="assets/logos/scouts.png" width="96" height="40" alt="Scouts Consulting Group"><br><b>Scouts Consulting Group</b><br>Senior Data Analyst<br><sub>Mar 2024 – Present</sub></p>
 
+<p align="center"><img src="assets/logos/nphi.png" width="96" height="40" alt="NPHI"><br><b>NPHI</b><br>Data Analyst<br><sub>Jan 2024 – Present</sub></p>
+
 <p align="center"><img src="assets/logos/ankura.png" width="96" height="40" alt="Ankura"><br><b>Ankura</b><br>Analytics &amp; Data Strategy<br><sub>Jun 2021 – Dec 2023</sub></p>
 
 <p align="center"><img src="assets/logos/data-robot.png" width="96" height="40" alt="DataRobot"><br><b>DataRobot</b><br>Technical Support Engineer<br><sub>Sep 2021 – Apr 2022</sub></p>
-
-<p align="center"><img src="assets/logos/capital-caring.png" width="96" height="40" alt="Capital Caring Health"><br><b>Capital Caring Health</b><br>Data Analyst<br><sub>Jul 2020 – Nov 2020</sub></p>
-
-<p align="center"><img src="assets/logos/autumn-wind.png" width="96" height="40" alt="Autumn Wind Asset Mgmt."><br><b>Autumn Wind Asset Mgmt.</b><br>Data Analyst<br><sub>May 2020 – Jul 2020</sub></p>
-
-<p align="center"><img src="assets/logos/razors-edge.png" width="96" height="40" alt="Razor's Edge Ventures"><br><b>Razor's Edge Ventures</b><br>Investment Analysis Intern<br><sub>May 2018 – Jun 2019</sub></p>
 
 ## Education
 
