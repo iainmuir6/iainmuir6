@@ -26,6 +26,7 @@ Data analytics, ML & full-stack development
 ## Projects
 
 <table align="center">
+  <tr><th><img src="assets/spacer.png" width="780" height="1" alt=""><br>Project</th></tr>
   <tr><td align="center"><b><a href="https://coffee-database.vercel.app/">Coffee Database</a></b><br><sub>Database for tracking and ranking coffee beans.</sub></td></tr>
   <tr><td align="center"><b><a href="https://lk-movie-rankings.vercel.app/">Movie Rankings</a></b><br><sub>Personalized movie rankings, created using Liam Kaley's algorithm.</sub></td></tr>
   <tr><td align="center"><b><a href="https://info-agg-website.vercel.app/">Info Aggregator</a> ·&nbsp;<a href="https://github.com/iainmuir6/info-agg-website">Repo</a></b><br><sub>Daily automated report aggregating sports, world news, financial markets, and more.</sub></td></tr>
@@ -39,13 +40,13 @@ Data analytics, ML & full-stack development
 ## Experience
 
 <table align="center">
-  <tr><th>Role</th><th>Dates</th></tr>
-  <tr><td><b>Senior Data Analyst</b><br><sub>Scouts Consulting Group</sub></td><td align="center"><sub>Mar 2024 – Present</sub></td></tr>
-  <tr><td><b>Analytics &amp; Data Strategy</b><br><sub>Ankura</sub></td><td align="center"><sub>Jun 2021 – Dec 2023</sub></td></tr>
-  <tr><td><b>Technical Support Engineer</b><br><sub>DataRobot</sub></td><td align="center"><sub>Sep 2021 – Apr 2022</sub></td></tr>
-  <tr><td><b>Data Analyst</b><br><sub>Capital Caring Health</sub></td><td align="center"><sub>Jul 2020 – Nov 2020</sub></td></tr>
-  <tr><td><b>Data Analyst</b><br><sub>Autumn Wind Asset Mgmt.</sub></td><td align="center"><sub>May 2020 – Jul 2020</sub></td></tr>
-  <tr><td><b>Investment Analysis Intern</b><br><sub>Razor's Edge Ventures</sub></td><td align="center"><sub>May 2018 – Jun 2019</sub></td></tr>
+  <tr><th><img src="assets/spacer.png" width="84" height="1" alt=""><br>Company</th><th><img src="assets/spacer.png" width="437" height="1" alt=""><br>Role</th><th><img src="assets/spacer.png" width="207" height="1" alt=""><br>Dates</th></tr>
+  <tr><td align="center"><img src="assets/logos/scouts.png" width="84" height="35" alt="Scouts Consulting Group"></td><td><b>Senior Data Analyst</b></td><td align="center"><sub>Mar 2024 – Present</sub></td></tr>
+  <tr><td align="center"><img src="assets/logos/ankura.png" width="84" height="35" alt="Ankura"></td><td><b>Analytics &amp; Data Strategy</b></td><td align="center"><sub>Jun 2021 – Dec 2023</sub></td></tr>
+  <tr><td align="center"><img src="assets/logos/data-robot.png" width="84" height="35" alt="DataRobot"></td><td><b>Technical Support Engineer</b></td><td align="center"><sub>Sep 2021 – Apr 2022</sub></td></tr>
+  <tr><td align="center"><img src="assets/logos/capital-caring.png" width="84" height="35" alt="Capital Caring Health"></td><td><b>Data Analyst</b></td><td align="center"><sub>Jul 2020 – Nov 2020</sub></td></tr>
+  <tr><td align="center"><img src="assets/logos/autumn-wind.png" width="84" height="35" alt="Autumn Wind Asset Mgmt."></td><td><b>Data Analyst</b></td><td align="center"><sub>May 2020 – Jul 2020</sub></td></tr>
+  <tr><td align="center"><img src="assets/logos/razors-edge.png" width="84" height="35" alt="Razor's Edge Ventures"></td><td><b>Investment Analysis Intern</b></td><td align="center"><sub>May 2018 – Jun 2019</sub></td></tr>
 </table>
 
 ## Education
@@ -57,24 +58,5 @@ Data analytics, ML & full-stack development
 <sub>Finance and IT Concentrations</sub><br>
 <sub>Quantitative Finance Track</sub><br>
 <sub>Computer Science and Data Science Minors</sub>
-
-<div align="left">
-
-<details>
-<summary><b>Coursework</b></summary>
-<br>
-
-<table>
-  <tr><th>Course</th><th>Repository</th></tr>
-  <tr><td>CS 4774<br><sub>Machine Learning</sub></td><td><a href="https://github.com/iainmuir6/Machine-Learning-for-Virginia">Machine Learning for Virginia</a></td></tr>
-  <tr><td>CS 2150<br><sub>Program and Data Representation</sub></td><td><a href="https://github.com/iainmuir6/Program-and-Data-Representation">Program and Data Representation</a></td></tr>
-  <tr><td>STAT 4800<br><sub>Advanced Sports Analytics</sub></td><td><a href="https://github.com/iainmuir6/Advanced-Sports-Analytics">Advanced Sports Analytics</a></td></tr>
-  <tr><td>COMM 4522<br><sub>Airline Passenger Satisfaction</sub></td><td><a href="https://github.com/iainmuir6/Predicting-Airline-Passnger-Satisfaction">Predicting Airline Passenger Satisfaction</a></td></tr>
-  <tr><td>DS 3001<br><sub>Socio-Economic Clustering</sub></td><td><a href="https://github.com/iainmuir6/Socio-Economic-Clustering">Socio-Economic Clustering</a></td></tr>
-</table>
-
-</details>
-
-</div>
 
 </div>
